@@ -51,6 +51,13 @@ Walmart-Sales-Analysis/
 │   └── heatmaps, bar charts
 └── README.md
 ```
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![Chart 1](https://github.com/user-attachments/assets/5215c417-1ced-44b7-8f32-d0afc2f36982) | ![Chart 2](https://github.com/user-attachments/assets/f43e22dd-6f5e-4a31-be08-ef3e77973e9b) |
+| ![Chart 3](https://github.com/user-attachments/assets/7f4194e5-91dd-459e-acf5-e8417abde7a3) | ![Chart 4](https://github.com/user-attachments/assets/21fd1a54-bb25-490d-a60f-052d8566dcce) |
+| ![Chart 5](https://github.com/user-attachments/assets/af4f828f-8186-415c-a847-31d08959dc09) | |
 
 ---
 
